@@ -64,7 +64,10 @@ D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagemen
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+<<<<<<< HEAD
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csprojAssemblyReference.cache
+=======
+>>>>>>> main
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.AssemblyInfoInputs.cache
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.AssemblyInfo.cs
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csproj.CoreCompileInputs.cache
@@ -78,6 +81,7 @@ D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagemen
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.dll
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.pdb
 D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.genruntimeconfig.cache
+<<<<<<< HEAD
 D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
 D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\appsettings.json
 D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.exe
@@ -118,3 +122,5 @@ D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManageme
 D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.dll
 D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.pdb
 D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.genruntimeconfig.cache
+=======
+>>>>>>> main
