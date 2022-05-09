@@ -1,0 +1,120 @@
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.exe
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.deps.json
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.runtimeconfig.json
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.runtimeconfig.dev.json
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.pdb
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csprojAssemblyReference.cache
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.AssemblyInfoInputs.cache
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.AssemblyInfo.cs
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csproj.CoreCompileInputs.cache
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\staticwebassets\API.GymManagementSystem.StaticWebAssets.Manifest.cache
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\staticwebassets\API.GymManagementSystem.StaticWebAssets.xml
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.GymManagementSystem.styles.css
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.RazorTargetAssemblyInfo.cache
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csproj.CopyComplete
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.pdb
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.genruntimeconfig.cache
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Working projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.exe
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.deps.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.runtimeconfig.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.runtimeconfig.dev.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.pdb
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csprojAssemblyReference.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.AssemblyInfoInputs.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.AssemblyInfo.cs
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csproj.CoreCompileInputs.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\staticwebassets\API.GymManagementSystem.StaticWebAssets.Manifest.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\staticwebassets\API.GymManagementSystem.StaticWebAssets.xml
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.GymManagementSystem.styles.css
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.RazorTargetAssemblyInfo.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csproj.CopyComplete
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.pdb
+D:\Working projects\Other Test Projects\API.GymManagementSystem\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.genruntimeconfig.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.exe
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.deps.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.runtimeconfig.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.runtimeconfig.dev.json
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\API.GymManagementSystem.pdb
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csprojAssemblyReference.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.AssemblyInfoInputs.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.AssemblyInfo.cs
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csproj.CoreCompileInputs.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\staticwebassets\API.GymManagementSystem.StaticWebAssets.Manifest.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\staticwebassets\API.GymManagementSystem.StaticWebAssets.xml
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\scopedcss\bundle\API.GymManagementSystem.styles.css
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.RazorTargetAssemblyInfo.cache
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.csproj.CopyComplete
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.dll
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.pdb
+D:\Working projects\Other Test Projects\API.GymManagementSystem1\API.GymManagementSystem\obj\Debug\netcoreapp3.1\API.GymManagementSystem.genruntimeconfig.cache
