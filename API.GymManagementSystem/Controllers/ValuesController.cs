@@ -23,7 +23,7 @@ namespace API.GymManagementSystem.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            _activeUsersServices.ActiveUsers();
+            //_activeUsersServices.ActiveUsers();
             return new string[] { "value1", "value2" };
         }
 
